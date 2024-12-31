@@ -16,5 +16,6 @@ If you use our codes in your papers or projects, please cite it as:
   volume={},
   number={},
   pages={}
+}
 ```
 Besides, you should cite the reference of the `Sionna` package as mentioned in [Sionna: An Open-Source Library for Next-Generation Physical Layer Research](https://github.com/NVlabs/sionna), and the reference of the [TensorFlow](https://github.com/tensorflow/tensorflow) package.
